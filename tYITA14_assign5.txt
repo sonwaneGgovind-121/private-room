@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style1.css">
+    <title>Document</title>
+</head>
+<body style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+    <div class="main">
+        <h1 id="head"># DAILY MEALS #
+            <br>  "Dealicious food"</h1>
+        <img src="https://res.cloudinary.com/stanza-living/image/upload/v1654681231/Website%20v5/About_Us/community2.jpg" alt="" width="400" height="535">
+    
+        <p>
+         Instead, bring along a big appetite for healthy, yummy meals. With flavours that have a local touch. And that, at the same time, take your taste buds on a journey back home.
+        </p>
+    </div>
+  
+</body>
+</html>
